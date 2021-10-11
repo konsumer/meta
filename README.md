@@ -124,7 +124,7 @@ Sometimes git is just used for pages. These projects should be clearly marked th
 
 ### docker
 
-Since I want to link back to source for any published docker containers, there pporjects should have linkage both ways.
+Since I want to link back to source for any published docker containers, there projects should have linkage both ways.
 
 <!-- put list here -->
 
