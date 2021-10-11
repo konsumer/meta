@@ -8,6 +8,7 @@ Here I will track my process of getting all my github projects in order.
 - edit README, npm depracate, and archive any unsupported project
 - Use [topics](https://github.com/topics) to tag projects
 - try to automate all steps below with github bots or actions
+- update konsumer.js.org with much better page that highlights npm projects
 
 ## org categories
 
@@ -15,6 +16,7 @@ Things should be better categorized by what they are for.
 
 - konsumer - my own libraries, things published on docker/npm, etc
 - notnullgames - game (or hacking) libraries/demos
+- families of things (like grpc/proto) should probly be moved to their own orgs
 
 
 ## project types
@@ -62,7 +64,7 @@ They should have these setup:
 
 These are projects that are a node library, and have a CLI that exposes most of the features 
 
-- rawproto
+- [rawproto](https://github.com/konsumer/rawproto)
 - tplight
 
 They should have these setup:
