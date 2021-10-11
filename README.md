@@ -15,7 +15,7 @@ Here I will track my process of getting all my github projects in order.
 Things should be better categorized by what they are for.
 
 - konsumer - my own libraries, things published on docker/npm, etc
-- notnullgames - game (or hacking) libraries/demos
+- notnullgames - game (or hacking) tools/libraries/demos
 - families of things (like grpc/proto) should probly be moved to their own orgs
 
 
