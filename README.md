@@ -142,7 +142,7 @@ Sometimes it's not really a template, but more of a an example of how to do some
 
 <!-- put list here -->
 
-They should have these setup for each subg-project:
+They should have these setup for each sub-project:
 
 - issue templates
 - usage instructions
